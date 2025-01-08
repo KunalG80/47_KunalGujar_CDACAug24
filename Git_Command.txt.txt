@@ -1,0 +1,9 @@
+git init
+git status
+git add .
+git status
+git commit -m "OS & SE Exam Assignment Added"
+git log 
+git remote add origins https://github.com/KunalG80/47_KunalGujar_CDACAug24.git
+git remote -v
+git push origin master
